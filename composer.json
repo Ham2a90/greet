@@ -1,0 +1,19 @@
+{
+    "name": "outscalers/test-package",
+    "description": "A simple laravel package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Outscalers\\TestPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamza Khan",
+            "email": "lalahamza327@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
